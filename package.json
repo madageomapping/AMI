@@ -1,0 +1,16 @@
+{
+  "name": "AMI",
+  "version": "1.0.0",
+  "description": "Projet AMI CartONG : Améliorer la précision de la mesure GPS",
+  "main": "index.js",
+  "author": "Thierry Razanajao",
+  "license": "CC BY SA",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs --host --port 8080"
+},
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
