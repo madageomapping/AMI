@@ -1,7 +1,7 @@
 ---
 home: true
 
-heroImage: /img/Drotek-DP0601-RTK-GNSS-F9P.png
+heroImage: https://raw.githubusercontent.com/madageomapping/AMI/main/docs/img/Drotek-DP0601-RTK-GNSS-F9P.png
 heroAlt: Drotek ZED-F9P
 heroText: Améliorer la précision de la mesure GPS
 tagline: Projet AMI CartONG
