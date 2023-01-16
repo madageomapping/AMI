@@ -1,10 +1,4 @@
-# Introduction
-
-## Contexte
-
-## Enjeux
-
-## Proposition
+# Proposition
 
 Par rapport à d'autres systèmes:
 
@@ -20,18 +14,4 @@ _on a une interface web pour monitorer et piloter le système (acces par smartph
 
 _on a un matériel d'utilisation professionnelle pour un prix accessible au grand public
 
-## Fonctionnalités
-
-## Cas d'utilisation
-
-- Dépollution
-
-- Déminage
-
-- Inventaire
-
-- GCP
-
-- Datalogger
-
-- Topo, Carto
+# Fonctionnalités

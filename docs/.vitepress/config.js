@@ -8,8 +8,17 @@ module.exports = {
     base: '/AMI/',
 
     themeConfig: {
+        // Navbar Link
         nav: [
             { text: 'Home', link: '/'},
+            // Dropdown Menu
+            {
+              text: 'Guide',
+               items: [
+                { text: 'matériel', link: '/materiel' },
+                { text: 'logiciel', link: '/logiciel' }
+               ]
+            },
             { text: 'à propos', link: '/apropos/' },
             { text: 'Contact', link: '/contact' }
         ],

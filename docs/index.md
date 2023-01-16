@@ -14,5 +14,5 @@ features:
   details: L'utilisation des puces GNSS bi-fréquences améliorent la précision pour atteindre le centimètre en temps réel.
 - title: User friendly
   details: Des interfaces utilisateurs qui cachent la complexité pour apporter le confort d'utilisation.
-footer: CC BY SA Licensed | Copyright © 2022 Thierry Razanajao
+footer: CC BY SA Licensed | Copyright © 2023 Thierry Razanajao & CartONG
 ---

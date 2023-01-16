@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as i}from"./app.985fc83f.js";const f='{"title":"Proposition","description":"","frontmatter":{},"headers":[],"relativePath":"proposition.md"}',n={},r=i("",9),a=[r];function s(p,c,u,d,l,_){return t(),o("div",null,a)}var m=e(n,[["render",s]]);export{f as __pageData,m as default};
